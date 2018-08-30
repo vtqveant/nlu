@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /css/
+Disallow: /images/
+Disallow: /js/
+Disallow: /WEB-INF/
